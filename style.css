@@ -204,6 +204,11 @@ h2::after {
     box-sizing: border-box;
 }
 
+#contact-form button {
+    cursor: pointer;
+    border: none;
+}
+
 #contact-form textarea {
     height: 150px; 
     resize: vertical;
