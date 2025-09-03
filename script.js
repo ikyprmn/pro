@@ -31,7 +31,6 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
     });
-
 });
 document.addEventListener('DOMContentLoaded', () => {
     // Dapatkan elemen tombol hamburger dan daftar tautan navigasi
